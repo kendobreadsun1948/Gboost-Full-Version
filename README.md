@@ -236,3 +236,6 @@ This repository serves as the official landing page for GBoost. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GBoost today!**
+
+---
+**Last updated:** 2026-09-10 00:52:49 UTC
