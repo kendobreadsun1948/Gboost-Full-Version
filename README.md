@@ -238,4 +238,4 @@ This repository serves as the official landing page for GBoost. The software is 
 **Get the most recent version of GBoost today!**
 
 ---
-**Last updated:** 2026-09-20 22:49:09 UTC
+**Last updated:** 2026-09-21 00:41:43 UTC
